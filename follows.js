@@ -12,7 +12,7 @@
 		hideForm		= 0;
 	*/
 
-	var defaultKey		= 'Yg7EpfFOFnwolGvfiNwpWNNU2vNRcPKfhmOk1x4Pzl9e3SLv', // Unique master Xively API key to be used as a default
+	var defaultKey		= 'Y8bnZpN22M05lpN3qlFd26JNJKzoXCc4Ppmf7NKExv9bQecw', // Unique master Xively API key to be used as a default
 		defaultFeeds	= [144422134], // Comma separated array of Xively Feed ID numbers
 		applicationName	= 'Larko Messenger', // Replaces Xively logo in the header
 		dataDuration	= '60days', // Default duration of data to be displayed // ref: https://xively.com/dev/docs/api/data/read/historical_data/
